@@ -11,5 +11,5 @@ Example:
 ```
 
 * Source: http://www.freeformatter.com/iso-country-list-html-select.html#alpha2
-* More about _e: https://codex.wordpress.org/Function_Reference/_e
-* More about ISO-3366-1: https://en.wikipedia.org/wiki/ISO_3166-1
+* More about *_e*: https://codex.wordpress.org/Function_Reference/_e
+* More about *ISO-3366-1*: https://en.wikipedia.org/wiki/ISO_3166-1
