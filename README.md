@@ -1,5 +1,4 @@
-# countrylist-selectbox-wordpress-translation-ready
-Country list selectbox for WordPress in *ISO-3366-1* norm. Translation ready with *_e*
+# Country list selectbox for WordPress in *ISO-3366-1* norm. Translation ready with *_e*
 
 Example:
 ```
